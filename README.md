@@ -1,2 +1,3 @@
 # ShootGame
-my NEW GAME
+
+This cannot be distributed without my permission, Enjoy!
