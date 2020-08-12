@@ -1,0 +1,14 @@
+==========0.1==========
+added guns and boxes
+
+==========0.2==========
+added simple building with blocks:
+static blocks
+regid/physics blocks
+=========future========
+Better building
+(easy walls, rotate with camera angle, easier to visualize block placement)
+more guns
+(sniper, maybe shotty)
+health ui
+(Have to in next update)
